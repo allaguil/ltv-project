@@ -18,8 +18,6 @@ body {
     margin: 0;
     overflow-y: auto;
     overflow-x: hidden;
-    touch-action: none;
-    -ms-touch-action: none;
 }
 
 h1 {
